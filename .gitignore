@@ -1,0 +1,13 @@
+# Python & Environments
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset & Large Files
+dataset/
+*.task
+
+# Bizim eğittiğimiz model dosyası çok büyük değilse (30MB) GitHub'a gidebilir, ama istersen onu da silebilirsin.
+# *.h5 
